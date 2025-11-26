@@ -1,12 +1,12 @@
-# Hi, I'm Marck Morris í±‹
+# Hi, I'm Marck Morris ï¿½ï¿½ï¿½
 
-## íº€ Site Reliability Engineer | Database Specialist | Cloud Infrastructure Expert
+## ï¿½ï¿½ï¿½ Site Reliability Engineer | Database Versed | Cloud Infrastructure Specialist
 
 Experienced SRE with expertise in database reliability, multi-cloud infrastructure, and automation. Passionate about building resilient systems at scale.
 
-### í²¼ Featured Projects
+### ï¿½ï¿½ï¿½ Featured Projects
 
-#### í·„ï¸ Database Reliability Engineering
+#### ï¿½ï¿½ï¿½ï¸ Database Reliability Engineering
 - [Multi-Cloud DB Disaster Recovery](https://github.com/MarckMorris/multi-cloud-db-disaster-recovery) - Automated DR with RTO <15min
 - [Redis HA Autoscaling Cluster](https://github.com/MarckMorris/redis-ha-autoscaling-cluster) - Self-healing Redis cluster
 - [Database Performance Profiler](https://github.com/MarckMorris/database-performance-profiler) - ML-powered query optimization
@@ -19,26 +19,26 @@ Experienced SRE with expertise in database reliability, multi-cloud infrastructu
 - [Self-Service DB Provisioning](https://github.com/MarckMorris/self-service-db-provisioning) - Developer portal
 - [Infrastructure Drift Detection](https://github.com/MarckMorris/infrastructure-drift-detection) - Auto-remediation
 
-#### í³Š Observability & Monitoring
+#### ï¿½ï¿½ï¿½ Observability & Monitoring
 - [Unified DB Observability Platform](https://github.com/MarckMorris/unified-db-observability-platform) - Multi-DB monitoring
 - [AI Anomaly Detection System](https://github.com/MarckMorris/ai-anomaly-detection-system) - ML-based alerts
 - [Distributed Tracing Database](https://github.com/MarckMorris/distributed-tracing-database) - End-to-end tracing
 - [SLO/SLA Monitoring Dashboard](https://github.com/MarckMorris/slo-sla-monitoring-dashboard) - Error budgets
 
-#### í´„ CI/CD & DevOps
+#### ï¿½ï¿½ï¿½ CI/CD & DevOps
 - [Database CI/CD Pipeline](https://github.com/MarckMorris/database-cicd-pipeline) - Multi-stage deployments
 - [Canary Deployment Database](https://github.com/MarckMorris/canary-deployment-database) - Progressive rollouts
 - [Multi-Environment DB Sync](https://github.com/MarckMorris/multi-environment-db-sync) - Automated PII masking
 
-#### í´’ Security
+#### ï¿½ï¿½ï¿½ Security
 - [Database Security Scanner](https://github.com/MarckMorris/database-security-scanner) - Compliance scanning
 - [Secrets Rotation System](https://github.com/MarckMorris/secrets-rotation-system) - Zero-downtime rotation
 
-#### í¾¯ Advanced
+#### ï¿½ï¿½ï¿½ Advanced
 - [Kubernetes Database Operator](https://github.com/MarckMorris/kubernetes-database-operator) - Lifecycle management
 - [Chaos Engineering Databases](https://github.com/MarckMorris/chaos-engineering-databases) - Resilience testing
 
-### í» ï¸ Tech Stack
+### ï¿½ï¿½ï¿½ï¸ Tech Stack
 
 **Cloud & Infrastructure:** AWS â€¢ GCP â€¢ Azure â€¢ Terraform â€¢ Kubernetes â€¢ Docker
 
@@ -50,9 +50,8 @@ Experienced SRE with expertise in database reliability, multi-cloud infrastructu
 
 **CI/CD:** GitHub Actions â€¢ Jenkins â€¢ ArgoCD â€¢ FluxCD
 
-### í³« Contact
-- LinkedIn: [your-linkedin]
-- Email: your.email@example.com
-
+### ï¿½ï¿½ï¿½ Contact
+- LinkedIn: https://www.linkedin.com/in/marck-morris/
+- Email: marck.morris.pro@gmail.com
 ---
 â­ï¸ Building reliable systems, one commit at a time
